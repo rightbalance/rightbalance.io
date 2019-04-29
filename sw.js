@@ -2,10 +2,6 @@ importScripts('https://rightbalance.github.io/rightbalance.io/workbox.4c4f5ca6.j
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "https://rightbalance.github.io/rightbalance.io/01969adb279f99a1eb12.js",
-    "revision": "788832956c0bf71a2658ab8a12fe0005"
-  },
-  {
     "url": "https://rightbalance.github.io/rightbalance.io/34ea81211374727ba4cd.js",
     "revision": "691d2e35bc80914734b2318c0e60ee35"
   },
@@ -14,12 +10,16 @@ workbox.precaching.precacheAndRoute([
     "revision": "35fb7bcde7dbf0111eb49bed2b235fcf"
   },
   {
+    "url": "https://rightbalance.github.io/rightbalance.io/6adf419f7f0fe9905d0b.js",
+    "revision": "e7f04db29c8f2ef7d6a6927331f3363d"
+  },
+  {
     "url": "https://rightbalance.github.io/rightbalance.io/8de0cfca096beb26e396.js",
     "revision": "b67f85f2c90242a4de2aa34d9512e921"
   },
   {
-    "url": "https://rightbalance.github.io/rightbalance.io/c5be141ff5775820ac6f.js",
-    "revision": "01bfd4dcc203706f041d14d0e138fac0"
+    "url": "https://rightbalance.github.io/rightbalance.io/ee502ae11a7c69ac7abc.js",
+    "revision": "69f7dcb05c49b0d4e111ae688c106405"
   }
 ], {
   "cacheId": "rightbalance.io",
