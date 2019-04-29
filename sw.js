@@ -1,28 +1,28 @@
-importScripts('./nuxtjs-github-pages-test/_nuxt/workbox.4c4f5ca6.js')
+importScripts('./rightbalance.io/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "./nuxtjs-github-pages-test/_nuxt/1a70420e6fce61fdc40e.js",
-    "revision": "810bb75372ee999f1a2071e9f2fdd37d"
+    "url": "./rightbalance.io/_nuxt/30beb7039b3b275ca445.js",
+    "revision": "97b4a5f90de0f0f456d1aed4c576444a"
   },
   {
-    "url": "./nuxtjs-github-pages-test/_nuxt/5f3d2c0040ac89d0fd3f.js",
+    "url": "./rightbalance.io/_nuxt/34040bcbb607c24a1804.js",
+    "revision": "acf1cfdf2058f70d53b8deecda7964cd"
+  },
+  {
+    "url": "./rightbalance.io/_nuxt/5f3d2c0040ac89d0fd3f.js",
     "revision": "35fb7bcde7dbf0111eb49bed2b235fcf"
   },
   {
-    "url": "./nuxtjs-github-pages-test/_nuxt/60f4bce1359ab16cb595.js",
-    "revision": "42568e7b99c3e754ab300e3ccce40e07"
-  },
-  {
-    "url": "./nuxtjs-github-pages-test/_nuxt/6c56df921ddc0c069f4a.js",
+    "url": "./rightbalance.io/_nuxt/6c56df921ddc0c069f4a.js",
     "revision": "0b46645cbf18f8c70cc3c78d80ab973f"
   },
   {
-    "url": "./nuxtjs-github-pages-test/_nuxt/8de0cfca096beb26e396.js",
+    "url": "./rightbalance.io/_nuxt/8de0cfca096beb26e396.js",
     "revision": "b67f85f2c90242a4de2aa34d9512e921"
   }
 ], {
-  "cacheId": "nuxtjs-github-pages-test",
+  "cacheId": "rightbalance.io",
   "directoryIndex": "/",
   "cleanUrls": false
 })
@@ -30,6 +30,6 @@ workbox.precaching.precacheAndRoute([
 workbox.clientsClaim()
 workbox.skipWaiting()
 
-workbox.routing.registerRoute(new RegExp('./nuxtjs-github-pages-test/_nuxt/.*'), workbox.strategies.cacheFirst({}), 'GET')
+workbox.routing.registerRoute(new RegExp('./rightbalance.io/_nuxt/.*'), workbox.strategies.cacheFirst({}), 'GET')
 
-workbox.routing.registerRoute(new RegExp('./nuxtjs-github-pages-test/.*'), workbox.strategies.networkFirst({}), 'GET')
+workbox.routing.registerRoute(new RegExp('./rightbalance.io/.*'), workbox.strategies.networkFirst({}), 'GET')
