@@ -6,8 +6,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "3e5778a7124cca3a3ddf6df66f70c880"
   },
   {
-    "url": "https://rightbalance.github.io/rightbalance.io/4f46a5de1cf25e1bc22b.js",
-    "revision": "a02dfe5888af28c22f8167ede93f3453"
+    "url": "https://rightbalance.github.io/rightbalance.io/2a76c12e1e31bb12faae.js",
+    "revision": "2e4c8be02f7f44975a0887216a5c9896"
   },
   {
     "url": "https://rightbalance.github.io/rightbalance.io/5f3d2c0040ac89d0fd3f.js",
