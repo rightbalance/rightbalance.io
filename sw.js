@@ -6,8 +6,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "3e5778a7124cca3a3ddf6df66f70c880"
   },
   {
-    "url": "https://rightbalance.github.io/rightbalance.io/30beb7039b3b275ca445.js",
-    "revision": "97b4a5f90de0f0f456d1aed4c576444a"
+    "url": "https://rightbalance.github.io/rightbalance.io/4f46a5de1cf25e1bc22b.js",
+    "revision": "a02dfe5888af28c22f8167ede93f3453"
   },
   {
     "url": "https://rightbalance.github.io/rightbalance.io/5f3d2c0040ac89d0fd3f.js",
@@ -32,4 +32,4 @@ workbox.skipWaiting()
 
 workbox.routing.registerRoute(new RegExp('https://rightbalance.github.io/rightbalance.io/.*'), workbox.strategies.cacheFirst({}), 'GET')
 
-workbox.routing.registerRoute(new RegExp('./rightbalance.io/.*'), workbox.strategies.networkFirst({}), 'GET')
+workbox.routing.registerRoute(new RegExp('https://rightbalance.github.io/rightbalance.io/.*'), workbox.strategies.networkFirst({}), 'GET')
