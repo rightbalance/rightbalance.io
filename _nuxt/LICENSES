@@ -49,12 +49,6 @@
  * Copyright (c) 2016 Jorik Tangelder;
  * Licensed under the MIT license */
 
-/**
-  * vee-validate v2.2.5
-  * (c) 2019 Abdelrahman Awad
-  * @license MIT
-  */
-
 /*!
  * vue-i18n v8.11.2 
  * (c) 2019 kazuya kawaguchi
@@ -64,6 +58,12 @@
 /*!
   * vue-scrollto v2.15.0
   * (c) 2019 Randjelovic Igor
+  * @license MIT
+  */
+
+/**
+  * vee-validate v2.2.5
+  * (c) 2019 Abdelrahman Awad
   * @license MIT
   */
 
