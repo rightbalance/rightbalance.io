@@ -5,7 +5,15 @@
  */
 
 /*!
-  * vue-router v3.0.6
+ * JavaScript Cookie v2.2.1
+ * https://github.com/js-cookie/js-cookie
+ *
+ * Copyright 2006, 2015 Klaus Hartl & Fagner Brack
+ * Released under the MIT license
+ */
+
+/*!
+  * vue-router v3.0.7
   * (c) 2019 Evan You
   * @license MIT
   */
@@ -17,32 +25,6 @@
  * MIT Licensed
  */
 
-/*!
- * JavaScript Cookie v2.2.0
- * https://github.com/js-cookie/js-cookie
- *
- * Copyright 2006, 2015 Klaus Hartl & Fagner Brack
- * Released under the MIT license
- */
-
-/**
- * vue-meta v1.6.0
- * (c) 2019 Declan de Wet & Sébastien Chopin (@Atinux)
- * @license MIT
- */
-
-/*
-	object-assign
-	(c) Sindre Sorhus
-	@license MIT
-	*/
-
-/*!
- * vue-no-ssr v1.1.1
- * (c) 2018-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
 /*! Hammer.JS - v2.0.7 - 2016-04-22
  * http://hammerjs.github.io/
  *
@@ -50,25 +32,37 @@
  * Licensed under the MIT license */
 
 /*!
- * vue-i18n v8.11.2 
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-i18n v8.14.1 
  * (c) 2019 kazuya kawaguchi
  * Released under the MIT License.
  */
 
 /*!
-  * vue-scrollto v2.15.0
+  * vue-scrollto v2.17.1
   * (c) 2019 Randjelovic Igor
   * @license MIT
   */
 
 /**
-  * vee-validate v2.2.5
+  * vee-validate v2.2.15
   * (c) 2019 Abdelrahman Awad
   * @license MIT
   */
 
 /**
-  * vue-class-component v7.0.2
+  * vue-class-component v7.1.0
   * (c) 2015-present Evan You
   * @license MIT
   */
