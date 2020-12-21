@@ -1,11 +1,11 @@
 /*!
-  * vue-router v3.1.6
+  * vue-router v3.4.3
   * (c) 2020 Evan You
   * @license MIT
   */
 
 /*!
-  * vue-scrollto v2.18.0
+  * vue-scrollto v2.17.1
   * (c) 2019 Randjelovic Igor
   * @license MIT
   */
@@ -38,8 +38,8 @@
  */
 
 /*!
- * vue-i18n v8.17.0 
- * (c) 2020 kazuya kawaguchi
+ * vue-i18n v8.14.1 
+ * (c) 2019 kazuya kawaguchi
  * Released under the MIT License.
  */
 
@@ -48,6 +48,9 @@
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
+
+/*! Case - v1.6.2 - 2020-03-24
+* Copyright (c) 2020 Nathan Bubna; Licensed MIT, GPL */
 
 /*! Hammer.JS - v2.0.7 - 2016-04-22
  * http://hammerjs.github.io/
@@ -58,11 +61,5 @@
 /**
   * vee-validate v2.2.15
   * (c) 2019 Abdelrahman Awad
-  * @license MIT
-  */
-
-/**
-  * vue-class-component v7.2.3
-  * (c) 2015-present Evan You
   * @license MIT
   */
