@@ -1,1 +1,0 @@
-window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1687483030",layout:"default",error:null,serverRendered:true,routePath:"\u002Fcase-studies\u002F10-high-caliber-engineers-from-latin-america-and-eastern-europe-hired-in-less-than-5-months",config:{}};
